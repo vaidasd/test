@@ -1,0 +1,15 @@
+{
+	"category" : "Interview-Ch",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"trades",
+		"portfolios" ],
+	"name" : "Portfolio",
+	"pools" : [
+		 ],
+	"super" : "Frame",
+	"type" : "normal" }

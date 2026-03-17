@@ -1,0 +1,15 @@
+{
+	"category" : "Interview-Ch",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"paymentDate",
+		"amount" ],
+	"name" : "CashflowProduct",
+	"pools" : [
+		 ],
+	"super" : "Product",
+	"type" : "normal" }

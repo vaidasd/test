@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"defaultAmount" : "vd 3/15/2026 13:14",
+		"example" : "vd 3/15/2026 13:15" },
+	"instance" : {
+		"amount" : "vd 3/13/2026 21:27",
+		"amount:" : "vd 3/13/2026 20:14",
+		"paymentDate" : "vd 3/15/2026 12:54",
+		"paymentDate:" : "vd 3/13/2026 21:31",
+		"presentValueForMarket:" : "vd 3/14/2026 19:35" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Interview-Ch",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"date",
+		"discountRate" ],
+	"name" : "Market",
+	"pools" : [
+		 ],
+	"super" : "Frame",
+	"type" : "normal" }

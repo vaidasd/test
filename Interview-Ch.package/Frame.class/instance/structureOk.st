@@ -1,0 +1,3 @@
+testing
+structureOk
+self subclassResponsibility

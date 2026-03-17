@@ -1,0 +1,14 @@
+{
+	"category" : "Interview-Ch-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PortfolioTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

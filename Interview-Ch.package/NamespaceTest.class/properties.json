@@ -1,0 +1,16 @@
+{
+	"category" : "Interview-Ch-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"frames",
+		"myNamespace",
+		"myFrame" ],
+	"name" : "NamespaceTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

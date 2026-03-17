@@ -1,0 +1,14 @@
+{
+	"category" : "Interview-Ch",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Product",
+	"pools" : [
+		 ],
+	"super" : "Frame",
+	"type" : "normal" }

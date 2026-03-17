@@ -1,0 +1,14 @@
+{
+	"category" : "Interview-Ch",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vd 3/13/2026 13:25",
+	"instvars" : [
+		 ],
+	"name" : "Party",
+	"pools" : [
+		 ],
+	"super" : "Frame",
+	"type" : "normal" }

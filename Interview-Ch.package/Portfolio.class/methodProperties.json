@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addPortfolio:" : "vd 3/14/2026 18:51",
+		"addTrade:" : "vd 3/14/2026 18:52",
+		"allChildPortfolios" : "vd 3/13/2026 16:37",
+		"allChildPortfoliosDo:" : "vd 3/13/2026 16:35",
+		"allPortfolios" : "vd 3/17/2026 15:55",
+		"allPortfoliosDo:" : "vd 3/13/2026 16:35",
+		"allTradesDo:" : "vd 3/15/2026 12:20",
+		"initialize" : "vd 3/13/2026 16:12",
+		"isEmpty" : "vd 3/13/2026 16:13",
+		"presentValueForMarket:" : "vd 3/15/2026 12:23",
+		"trades" : "vd 3/15/2026 13:38" } }

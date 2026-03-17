@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"example" : "vd 3/15/2026 14:41" },
+	"instance" : {
+		"add:" : "vd 3/14/2026 14:49",
+		"addAllFrames:" : "vd 3/14/2026 14:46",
+		"addFrame:" : "vd 3/14/2026 20:37",
+		"books" : "vd 3/13/2026 15:35",
+		"frameNamed:" : "vd 3/13/2026 12:19",
+		"framesOk" : "vd 3/13/2026 11:33",
+		"initialize" : "vd 3/13/2026 11:21",
+		"isEmpty" : "vd 3/13/2026 12:26",
+		"markets" : "vd 3/14/2026 20:21",
+		"trades" : "vd 3/14/2026 20:25" } }

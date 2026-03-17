@@ -1,0 +1,15 @@
+{
+	"category" : "Interview-Ch",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vd 3/13/2026 13:33",
+	"instvars" : [
+		"portfolio",
+		"owner" ],
+	"name" : "Book",
+	"pools" : [
+		 ],
+	"super" : "Frame",
+	"type" : "normal" }
